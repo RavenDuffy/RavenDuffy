@@ -1,4 +1,4 @@
-<a href="https://ravenduffy.io">![weblink](./home.PNG)</a>
+<a href="https://ravenduffy.io">![weblink](home.png)</a>
 
 ## Socials
 [LinkedIn](https://linkedin.com/in/ravenduffy)
