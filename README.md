@@ -7,5 +7,7 @@
 
 [Portfolio Development](https://github.com/RavenDuffy/Portfolio)
 
+<br />
+
 <!-- [![HitCount](http://hits.dwyl.com/RavenDuffy/RavenDuffy.svg)](http://hits.dwyl.com/RavenDuffy/RavenDuffy) -->
 ![ViewCount](https://views.whatilearened.today/views/github/RavenDuffy/RavenDuffy.svg)
