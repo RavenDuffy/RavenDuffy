@@ -1,5 +1,7 @@
 <a href="https://ravenduffy.io">![weblink](https://github.com/RavenDuffy/RavenDuffy/blob/master/home.PNG)</a>
 
+[![HitCount](http://hits.dwyl.com/RavenDuffy/RavenDuffy.svg)](http://hits.dwyl.com/RavenDuffy/RavenDuffy)
+
 ## Socials
 [LinkedIn](https://linkedin.com/in/ravenduffy)
 
