@@ -13,7 +13,7 @@
 <div align="center" width="200px">
   <hr width="58%" />
   
-  ### Socials
+  ### Contact Me
   
   [LinkedIn](https://linkedin.com/in/ravenduffy) |
   [Proton Mail](mailto:ravenduffy@pm.me?subject=Hi%20Raven!) |
