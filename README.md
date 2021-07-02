@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://api.mygitstats.com/svg/40807825"</img>
+<img src="https://api.mygitstats.com/svg/40807825"></img>
 
 <!-- [![HitCount](http://hits.dwyl.com/RavenDuffy/RavenDuffy.svg)](http://hits.dwyl.com/RavenDuffy/RavenDuffy) -->
 ![ViewCount](https://views.whatilearened.today/views/github/RavenDuffy/RavenDuffy.svg)
