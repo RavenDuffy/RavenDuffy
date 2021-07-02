@@ -6,7 +6,7 @@
   <div>&nbsp;</div>
   
   <a href="https://mygitstats.com">
-    <img max-width="320px" src="https://api.mygitstats.com/svg/40807825"></img>
+    <img max-width="320px" src="https://api.mygitstats.com/svg/40807825?nocache=%3C?php%20echo%20time();%20?%3E"></img>
   </a>
 </div>
 
