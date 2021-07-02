@@ -6,12 +6,12 @@
   <div>&nbsp;</div>
   
   <a href="https://mygitstats.com">
-    <img width="40%" src="https://api.mygitstats.com/svg/40807825"></img>
+    <img max-width="320px" src="https://api.mygitstats.com/svg/40807825"></img>
   </a>
 </div>
 
 <div align="center" width="200px">
-  <hr width="580px" />
+  <hr width="58%" />
   
   ### Socials
   
