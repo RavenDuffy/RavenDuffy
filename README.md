@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ravenduffy.io">
-    <img src="https://github.com/RavenDuffy/RavenDuffy/blob/master/home.PNG"></img>
+    <img src="https://github.com/RavenDuffy/RavenDuffy/blob/master/DisplayCard.svg"></img>
   </a>
   
   <div>&nbsp;</div>
