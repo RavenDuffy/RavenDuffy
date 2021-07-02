@@ -4,8 +4,17 @@
 	width="582" 
 	height="140" 
 	viewBox="0 0 582 140" 
-	xml:space="preserve"
-	stroke="currentColor">
+	xml:space="preserve">
+	<style>
+		text {
+			fill: black;
+		}
+		@media (prefers-color-scheme: dark) {
+			text {
+				fill: white;
+			}
+		}
+	</style>
 	<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
 	<g transform="matrix(0 0 0 0 0 0)" id="93c3f0de-ce8b-4a3e-a30b-a0b102f334d9"  >
 	</g>
