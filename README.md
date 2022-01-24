@@ -17,7 +17,7 @@
   
   [LinkedIn](https://linkedin.com/in/ravenduffy) |
   [Proton Mail](mailto:ravenduffy@pm.me?subject=Hi%20Raven!) |
-  [Portfolio](https://RavenDuffy.com)
+  [Portfolio](https://RavenDuffy.io)
   
   ![ViewCount](https://views.whatilearened.today/views/github/RavenDuffy/RavenDuffy.svg)
 
