@@ -5,6 +5,14 @@
 	height="130" 
 	viewBox="0 0 585 130" 
 	xml:space="preserve">
+	<defs>
+  	  <style type="text/css">
+    	     @font-face {
+      		font-family: Roboto;
+      		src: url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+    	     }
+  	  </style>
+	</defs>
 	<style>
 		text {
 			paint-order: stroke;
