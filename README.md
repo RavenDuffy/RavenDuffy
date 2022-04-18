@@ -15,7 +15,7 @@
   
   ### Contact Me
   
-  [LinkedIn](https://linkedin.com/in/ravenduffy) |
+  [LinkedIn](https://www.linkedin.com/in/ravenduffy) |
   [Proton Mail](mailto:ravenduffy@pm.me?subject=Hi%20Raven!) |
   [Portfolio](https://RavenDuffy.io)
   
